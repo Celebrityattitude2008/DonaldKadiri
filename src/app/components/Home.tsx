@@ -11,7 +11,7 @@ export function Home() {
         {/* Background Image with Overlay */}
         <div className="absolute inset-0">
           <ImageWithFallback
-            src="donald.jpg"
+            src="images/donald.jpg"
             alt="Music Artist"
             className="w-full h-full object-contain"
           />
@@ -106,17 +106,17 @@ export function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
               {
-                image: "nostoppingus.jpg",
+                image: "images/nostoppingus.jpg",
                 title: "No Stopping Us",
                 type: "Single",
               },
               {
-                image: "stainless.jpg",
+                image: "images/stainless.jpg",
                 title: "Stainless",
                 type: "Single",
               },
               {
-                image: "justusforever.jpg",
+                image: "images/justusforever.jpg",
                 title: "Just Us Forever",
                 type: "Single",
               },

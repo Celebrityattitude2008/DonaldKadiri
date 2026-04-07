@@ -37,19 +37,19 @@ export function Music() {
       title: "No Stopping Us",
       year: 2026,
       spotifyUrl: "https://open.spotify.com/track/2gQWHNAXGVcopgIyP3TfGC?si=4bb3e5182f484448",
-      image: "/nostoppingus.jpg",
+      image: "images/nostoppingus.jpg",
     },
     {
       title: "Stainless",
       year: 2025,
       spotifyUrl: "https://open.spotify.com/track/2373HSxTJ7Sui5WwgrZLan?si=2cb9480d430d44e1",
-      image: "/stainless.jpg",
+      image: "images/stainless.jpg",
     },
     {
       title: "Just Us Forever",
       year: 2025,
       spotifyUrl: "https://open.spotify.com/track/6LqmARKtQppli72ooWrwD8?si=197c9c847af24f04",
-      image: "/justusforever.jpg",
+      image: "images/justusforever.jpg",
     },
   ];
 
