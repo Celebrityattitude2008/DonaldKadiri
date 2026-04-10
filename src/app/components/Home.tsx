@@ -32,7 +32,7 @@ export function Home() {
             className="space-y-6"
           >
             <motion.h1
-              className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl tracking-tighter"
+              className="display-font text-6xl sm:text-7xl md:text-8xl lg:text-9xl tracking-tighter"
               initial={{ opacity: 0, scale: 0.9 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 1, delay: 0.2 }}
@@ -48,7 +48,7 @@ export function Home() {
               animate={{ opacity: 1 }}
               transition={{ duration: 0.8, delay: 0.4 }}
             >
-              Indie Gospel Artist • Content Producer • Aspiring Novelist
+              Indie Gospel Artist • Content Producer • Creative Visionary
             </motion.p>
 
             <motion.div
